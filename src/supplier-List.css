@@ -1,0 +1,21 @@
+.form-control{
+    border: 1px solid #000000
+}
+
+.form-group{
+    border: solid #031e66;
+    margin: 16px auto;
+    padding: 16px
+}
+
+.form-a{
+    border: solid #031e66;
+}
+
+.form-truth{
+    background-color: seagreen;
+}
+
+.form-false{
+    background-color: red;
+}
